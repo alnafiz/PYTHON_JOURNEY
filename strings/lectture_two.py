@@ -23,3 +23,5 @@ str="Joy bangla"
 ch=str[2]
 
 print(ch)
+lol=str[0:5]
+print(lol)
