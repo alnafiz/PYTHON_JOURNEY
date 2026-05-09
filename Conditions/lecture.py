@@ -4,6 +4,6 @@ if(age >= 18):
 
 elif(age >= 16 and age < 18):
    print("Anna just wait some more time")
-    0o
+    
 else:
    print("Oy tor ki boyosh hoise?")
